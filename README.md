@@ -14,93 +14,93 @@ This is the main json data structure used to generate the resume, you can edit a
 
 ```json
 { 
-   "name": string,
-   "street": string,
-   "dateOfBirth": string,
-   "placeOfBirth": string,
-   "nationality": string,
-   "contact": string,
-   "email": string,
-   "linkedin": string,
-   "github": string,
+   "name": "string",
+   "street": "string",
+   "dateOfBirth": "string",
+   "placeOfBirth": "string",
+   "nationality": "string",
+   "contact": "string",
+   "email": "string",
+   "linkedin": "string",
+   "github": "string",
    "summary":[ 
       { 
-         "quote": string
+         "quote": "string"
       },
    ],
    "experiences":[ 
       { 
-         "img": string,
-         "title": string,
-         "dateStart": string,
-         "dateEnd": string,
+         "img": "string",
+         "title": "string",
+         "dateStart": "string",
+         "dateEnd": "string",
          "bullets":[ 
             { 
-               "description": string
+               "description": "string"
             },
          ]
       },
    ],
    "programmingSkills":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       },
    ],
    "webSkills":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       },
    ],
    "loadingSkills":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       }
    ],
    "dataModelSkills":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       }
    ],
    "dataManagementSkills":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       },
    ],
    "languages":[ 
       { 
-         "title": string,
-         "score": decimal
+         "title": "string",
+         "score": "decimal"
       },
    ],
    "education":[ 
       { 
-         "img": string,
-         "course": string,
-         "university": string,
-         "dateStart": string,
-         "dateEnd": string,
-         "description": string,
-         "courses": string
+         "img": "string",
+         "course": "string",
+         "university": "string",
+         "dateStart": "string",
+         "dateEnd": "string",
+         "description": "string",
+         "courses": "string"
       }
    ],
    "activities":[ 
       { 
-         "description": string
+         "description": "string"
       },
    ],
    "projects":[ 
       { 
-         "title": string,
-         "description": string
+         "title": "string",
+         "description": "string"
       }
    ],
    "keywords":[ 
-      string
+      "string"
    ]
 }
 ```
