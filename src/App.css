@@ -20,3 +20,28 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App-icon {
+  font-size: 25px;
+  margin-right: 10px
+}
+
+.App-progress {
+  display: flex;
+  height: 1rem;
+  background-color: #e9ecef;
+}
+
+.App-progress-bar {
+  background-color: #7700ff;
+}
+
+@media print {
+  body {-webkit-print-color-adjust: exact;}
+}
+
+@media print {
+  .Print-button {
+    display: none;
+  }
+}
