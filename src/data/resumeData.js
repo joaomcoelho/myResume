@@ -50,7 +50,7 @@ const resumeData = {
     },
     {
       img:
-        "https://pbs.twimg.com/profile_images/1143159088077053954/DQdueBQa_400x400.png",
+        "https://media-exp1.licdn.com/dms/image/C4D0BAQELgLELjHGtng/company-logo_200_200/0/1609742123161?e=1622678400&v=beta&t=L0OJB_vfuvhBkUH5VSAQtifSU53yVSvdQfp2fm6o2Ak",
       title: "Analyst Consultant at Capgemini, Lisbon",
       dateStart: "May 2016",
       dateEnd: "November 2017",
@@ -75,7 +75,7 @@ const resumeData = {
     },
     {
       img:
-        "https://pbs.twimg.com/profile_images/1143159088077053954/DQdueBQa_400x400.png",
+        "https://media-exp1.licdn.com/dms/image/C4D0BAQELgLELjHGtng/company-logo_200_200/0/1609742123161?e=1622678400&v=beta&t=L0OJB_vfuvhBkUH5VSAQtifSU53yVSvdQfp2fm6o2Ak",
       title: "Trainee at Capgemini, Lisbon",
       dateStart: "September 2015",
       dateEnd: "May 2016",
